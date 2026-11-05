@@ -1,0 +1,82 @@
+@import 'tailwindcss';
+
+/* Eurostile Next LT Pro — display only (wordmark, headings, uppercase labels). */
+@font-face {
+	font-family: 'Eurostile Next';
+	src: url('/fonts/eurostile/eurostile-next-light.woff2') format('woff2');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Eurostile Next';
+	src: url('/fonts/eurostile/eurostile-next-regular.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Eurostile Next';
+	src: url('/fonts/eurostile/eurostile-next-semibold.woff2') format('woff2');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Eurostile Next';
+	src: url('/fonts/eurostile/eurostile-next-bold.woff2') format('woff2');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Alegreya Sans — body copy, post titles, leaders, dates. */
+@font-face {
+	font-family: 'Alegreya Sans';
+	src: url('/fonts/alegreya/alegreya-sans-regular.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Alegreya Sans';
+	src: url('/fonts/alegreya/alegreya-sans-500.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Alegreya Sans';
+	src: url('/fonts/alegreya/alegreya-sans-700.woff2') format('woff2');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@theme {
+	--font-main:
+		ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
+		'Noto Color Emoji';
+	--font-display: 'Eurostile Next', 'Square 721 BT', ui-sans-serif, system-ui, sans-serif;
+	--font-sans-serif: 'Alegreya Sans', ui-sans-serif, system-ui, sans-serif;
+	--color-accent: oklch(51% 0.22 260); /* royal blue */
+	--color-stone: oklch(55.3% 0.013 58.071); /* stone 500 */
+}
+
+html {
+	scroll-behavior: smooth;
+	font-size: 20px;
+}
+
+body {
+	font-family: var(--font-main);
+	@apply leading-relaxed text-gray-600 antialiased;
+	@apply underline-offset-6;
+	margin: 0;
+	background-color: white;
+}
