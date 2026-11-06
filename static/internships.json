@@ -1,8 +1,8 @@
 {
   "metadata": {
     "created_at": "2026-10-28T08:38:00+11:00",
-    "last_run": "2026-11-05T08:50:00+11:00",
-    "total_runs": 8,
+    "last_run": "2026-11-06T08:02:14+11:00",
+    "total_runs": 9,
     "model": "gemini-3.8-flash-medium",
     "location_filter": "Melbourne / Victoria, Australia Only"
   },
@@ -90,7 +90,19 @@
     "https://applynow.amog.consulting/",
     "https://lumen.com.au/careers",
     "https://www.bmt.org/careers",
-    "https://www.metrotrains.com.au/careers"
+    "https://www.metrotrains.com.au/careers",
+    "https://www.kitemagnetics.com/",
+    "https://adacel.com/careers",
+    "https://www.lovittech.com.au/",
+    "https://ndy.com/careers/early-careers",
+    "https://www.aurecongroup.com/careers",
+    "https://www.wsp.com/en-au/careers",
+    "https://www.arup.com/careers",
+    "https://www.beca.com/careers",
+    "https://www.smec.com/careers",
+    "https://robertbird.com/careers",
+    "https://bgeeng.com/careers",
+    "https://meinhardtgroup.com/careers"
   ],
   "internships": [
     {
@@ -1016,6 +1028,138 @@
       "source_type": "Direct Rail Transport Portal (.com.au)",
       "dork_category": "Dork 2 (Automation & Control Systems) / Dork 4 (Transport Infrastructure)",
       "notes": "Comprehensive rail engineering pathways, signalling cadetships, and rotational engineering programs across rolling stock, track infrastructure, and operational control systems in Melbourne."
+    },
+    {
+      "title": "Electric Aircraft Propulsion & Materials Engineering Pathways",
+      "company": "Kite Magnetics",
+      "discipline": "Mechatronics / Materials / Mechanical / Aerospace",
+      "location": "Notting Hill / Clayton, Melbourne, VIC",
+      "url": "https://www.kitemagnetics.com/",
+      "date_found": "2026-11-06",
+      "source_type": "Deep-Tech Hardware Startup Portal (.com)",
+      "dork_category": "Dork 2 (Mechatronics & Robotics) / Dork 7 (Clayton / Notting Hill Innovation Precinct)",
+      "notes": "Monash University spinout developing next-generation ultra-light electric aircraft motors and Aeroperm nanocrystalline magnetic alloys; hands-on prototyping, motor testing, and materials engineering in Notting Hill."
+    },
+    {
+      "title": "Air Traffic Management & Simulation Systems Engineering Pathways",
+      "company": "Adacel Technologies",
+      "discipline": "Aerospace / Systems / Software / Avionics / Simulation",
+      "location": "Port Melbourne, VIC",
+      "url": "https://adacel.com/careers",
+      "date_found": "2026-11-06",
+      "source_type": "Direct Aviation & Defence Portal (.com)",
+      "dork_category": "Dork 7 (Port Melbourne Aerospace Hub) / Dork 2 (Automation & Control)",
+      "notes": "Real-time air traffic management (ATM) automation, high-fidelity aviation tower simulation, digital flight data systems, and system integration testing at Adacel's Port Melbourne engineering facility."
+    },
+    {
+      "title": "Precision Aerospace & Defence Manufacturing Engineering Pathways",
+      "company": "Lovitt Technologies Australia",
+      "discipline": "Mechanical / Manufacturing / Aerospace / Precision CNC",
+      "location": "Greensborough, Melbourne, VIC",
+      "url": "https://www.lovittech.com.au/",
+      "date_found": "2026-11-06",
+      "source_type": "Direct Precision Manufacturer (.com.au)",
+      "dork_category": "Dork 7 (Melbourne Advanced Manufacturing & Defence)",
+      "notes": "High-precision 5-axis CNC machining, structural airframe component fabrication (F-35 Joint Strike Fighter, Boeing commercial/military platforms), CMM quality verification, and mechanical tooling engineering in Greensborough."
+    },
+    {
+      "title": "Engineering Vacation & Internship Program (Melbourne Intake)",
+      "company": "Norman Disney & Young (NDY)",
+      "discipline": "Electrical / Mechanical / Mechatronics / Building Services",
+      "location": "Melbourne CBD, VIC",
+      "url": "https://ndy.com/careers/early-careers",
+      "date_found": "2026-11-06",
+      "source_type": "Direct Engineering Consultancy Portal (.com)",
+      "dork_category": "Dork 1 (Melbourne Direct Career Pages - Electrical & Power) / Dork 4 (.com Direct Portals)",
+      "notes": "Structured summer and winter internship programs for penultimate undergraduate engineers; high-performance HVAC systems, intelligent building electrical distribution, ESD, and automation consulting transitioning to NDY's 2-year Graduate Program."
+    },
+    {
+      "title": "Engineering Summer Internship Program (Melbourne Intake)",
+      "company": "Aurecon",
+      "discipline": "Electrical / Mechanical / Mechatronics / Systems / Civil",
+      "location": "Docklands / Melbourne CBD, VIC",
+      "url": "https://www.aurecongroup.com/careers",
+      "date_found": "2026-11-06",
+      "source_type": "Direct Enterprise Consultancy Portal (.com)",
+      "dork_category": "Dork 1 (Melbourne Electrical & Systems) / Dork 4 (Direct Portals)",
+      "notes": "12-week paid summer internship for penultimate-year engineering students across building services, asset management, automated transit, electrical power, and digital engineering; direct feeder into Aurecon's Graduate Program."
+    },
+    {
+      "title": "Undergraduate Vacation Engineering Program (Melbourne Intake)",
+      "company": "WSP in Australia",
+      "discipline": "Mechanical / Electrical / Building Services / Systems / Rail",
+      "location": "Melbourne CBD, VIC",
+      "url": "https://www.wsp.com/en-au/careers",
+      "date_found": "2026-11-06",
+      "source_type": "Direct Enterprise Consultancy Portal (.com)",
+      "dork_category": "Dork 1 (Melbourne Electrical & Mechanical) / Dork 7 (Melbourne Engineering Corridors)",
+      "notes": "Structured 12-week paid vacation engineering placements across property & buildings (building services HVAC/electrical), rail systems, sustainable energy infrastructure, and transport modeling."
+    },
+    {
+      "title": "Summer Vacation Engineering Internship (Melbourne Office)",
+      "company": "Arup",
+      "discipline": "Electrical / Mechanical / Structural / Building Services / Digital",
+      "location": "Melbourne CBD, VIC",
+      "url": "https://www.arup.com/careers",
+      "date_found": "2026-11-06",
+      "source_type": "Direct Enterprise Engineering Portal (.com)",
+      "dork_category": "Dork 1 (Melbourne Direct Career Pages) / Dork 7 (Melbourne Infrastructure & Systems)",
+      "notes": "12-week immersive summer internship program from November to February for penultimate undergraduate engineers; sustainable mechanical systems, lighting and power distribution, acoustics, and structural engineering."
+    },
+    {
+      "title": "Summer Engineering Internship Program (Melbourne Intake)",
+      "company": "Beca",
+      "discipline": "Mechanical / Electrical / Industrial Systems / Civil",
+      "location": "Melbourne CBD, VIC",
+      "url": "https://www.beca.com/careers",
+      "date_found": "2026-11-06",
+      "source_type": "Direct Engineering Consultancy Portal (.com)",
+      "dork_category": "Dork 1 (Melbourne Electrical & Industrial Systems) / Dork 4 (Direct Engineering Portals)",
+      "notes": "Paid summer consulting engineering internships working alongside technical directors on real client infrastructure, building services, industrial food & life sciences manufacturing facilities, and power distribution packages."
+    },
+    {
+      "title": "Undergraduate Engineering Summer Internship Program (Melbourne Intake)",
+      "company": "SMEC",
+      "discipline": "Civil / Structural / Electrical / Mechanical / Geotechnical",
+      "location": "Melbourne CBD, VIC",
+      "url": "https://www.smec.com/careers",
+      "date_found": "2026-11-06",
+      "source_type": "Direct Infrastructure Consultancy Portal (.com)",
+      "dork_category": "Dork 7 (Melbourne General & Systems Engineering) / Dork 4 (Direct Portals)",
+      "notes": "12-week paid undergraduate summer internship from November to February across major Victorian transport, road/rail systems, energy networks, and urban development projects."
+    },
+    {
+      "title": "Structural & Civil Engineering Undergraduate / Intern Intake",
+      "company": "Robert Bird Group",
+      "discipline": "Structural / Civil / Construction Systems Engineering",
+      "location": "Melbourne CBD, VIC",
+      "url": "https://robertbird.com/careers",
+      "date_found": "2026-11-06",
+      "source_type": "Direct Structural Engineering Portal (.com)",
+      "dork_category": "Dork 7 (Melbourne General / Structural / Civil Systems)",
+      "notes": "Undergraduate engineering placements and internships working on complex architectural structures, tall buildings, dynamic FEA analysis, and construction engineering methodologies."
+    },
+    {
+      "title": "Engineering Summer Internship & Undergraduate Pathways",
+      "company": "BG&E",
+      "discipline": "Civil / Structural / Facade / Geotechnical / Digital Engineering",
+      "location": "Melbourne CBD, VIC",
+      "url": "https://bgeeng.com/careers",
+      "date_found": "2026-11-06",
+      "source_type": "Direct Engineering Firm Portal (.com)",
+      "dork_category": "Dork 7 (Melbourne Infrastructure & Structural Systems)",
+      "notes": "Structured summer internships and undergraduate placements for penultimate and final-year students; advanced structural modeling, facade engineering, and civil infrastructure design."
+    },
+    {
+      "title": "Building Services & Structural Engineering Vacation / Undergraduate Program",
+      "company": "Meinhardt Group",
+      "discipline": "Electrical / Mechanical / Building Services / Civil / Structural",
+      "location": "Melbourne CBD, VIC",
+      "url": "https://meinhardtgroup.com/careers",
+      "date_found": "2026-11-06",
+      "source_type": "Direct Engineering Consultancy Portal (.com)",
+      "dork_category": "Dork 1 (Melbourne Electrical & Building Services) / Dork 4 (Direct Engineering Portals)",
+      "notes": "Vacation work, undergraduate placements, and expressions of interest across mechanical HVAC, electrical reticulation, fire safety systems, hydraulics, and structural engineering in Melbourne."
     }
   ]
 }

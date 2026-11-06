@@ -13,9 +13,9 @@
 	<div class="container mx-auto w-full max-w-5xl flex-grow px-6">
 		{@render children()}
 	</div>
-	<div class="footer w-full">
-		<div class="mx-auto mt-12 w-32 sm:mb-4">
-			<span class="text-xs text-gray-400">&copy; 2026 Dean Gao</span>
-		</div>
-	</div>
+	<footer class="container mx-auto mt-12 w-full max-w-5xl px-6 pb-4 sm:pb-5">
+		<span class="font-display text-[0.625rem] tracking-[0.08em] text-neutral-400 uppercase"
+			>&copy; 2026 Dean Gao</span
+		>
+	</footer>
 </div>
